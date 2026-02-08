@@ -1,0 +1,30 @@
+CRITICAL - 2026-01-12 16:54:58 --> ErrorException: Undefined array key "qty"
+[Method: GET, Route: order]
+in APPPATH\Controllers\Order.php on line 16.
+ 1 APPPATH\Controllers\Order.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "qty"', 'D:\\xampp\\htdocs\\KioskoDigitalc4\\app\\Controllers\\Order.php', 16)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Order->cart()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Order))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-01-12 17:04:46 --> ErrorException: Undefined array key "qty"
+[Method: GET, Route: order]
+in APPPATH\Controllers\Order.php on line 16.
+ 1 APPPATH\Controllers\Order.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "qty"', 'D:\\xampp\\htdocs\\KioskoDigitalc4\\app\\Controllers\\Order.php', 16)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Order->cart()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Order))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-01-12 17:04:54 --> ErrorException: Undefined array key "qty"
+[Method: GET, Route: order]
+in APPPATH\Controllers\Order.php on line 16.
+ 1 APPPATH\Controllers\Order.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "qty"', 'D:\\xampp\\htdocs\\KioskoDigitalc4\\app\\Controllers\\Order.php', 16)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Order->cart()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Order))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
